@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/snake-game" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sylvia.github.io" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/weatherapp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/weatherapp/node_modules/gh-pages/.cache/github.com!sylvia326!weather-finder.git" vcs="Git" />
+  </component>
+</project>
